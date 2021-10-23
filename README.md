@@ -1,4 +1,4 @@
-### Hi, I'am Delin
+# Hi, I'am Delin
 
 <!--
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# An enthusiast always want to learn and enchance my coding and problem solving skill day by day.
+### An enthusiast always want to learn and enchance my coding and problem solving skill day by day.
