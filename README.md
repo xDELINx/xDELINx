@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi, I'am Delin
 
 <!--
-**xDELINx/xDELINx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# An enthusiast always want to learn and enchance my coding and problem solving skill day by day.
