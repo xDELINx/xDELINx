@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### An enthusiast always want to learn and enchance my coding and problem solving skill day by day.
 
+---
 
 ### Languages and tools familiar with:
 <img align="left" width="26px" height="24px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
